@@ -1,5 +1,0 @@
-Blueberry,2,2.0,2
-Tarte,2,3.0,3
-Cream Pie,4,7.0,70
-Lemon Loaf,7,3.0,20
-Cookie,8,2.0,10
